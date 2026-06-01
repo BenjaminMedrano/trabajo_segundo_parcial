@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ana López",
+        "codigo": "20250001",
+        "materias": [1]
+    },
+    {
+        "id": 2,
+        "nombre": "Pedro Vargas",
+        "codigo": "20250002",
+        "materias": []
+    },
+    {
+        "id": 3,
+        "nombre": "María Rojas",
+        "codigo": "20250003",
+        "materias": [1,2]
+    }
+]
