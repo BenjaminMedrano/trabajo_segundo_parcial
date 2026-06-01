@@ -2,6 +2,7 @@ import customtkinter as ctk
 
 from views.dashboard_docente import DashboardDocente
 from views.dashboard_estudiante import DashboardEstudiante
+from views.lista_estudiantes import ListaEstudiantes
 
 
 ctk.set_appearance_mode("dark")
@@ -125,4 +126,4 @@ class SeleccionRol(ctk.CTk):
 
         self.withdraw()
 
-        DashboardEstudiante(self)
+        ListaEstudiantes(self)
