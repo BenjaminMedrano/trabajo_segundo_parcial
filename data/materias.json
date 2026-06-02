@@ -1,0 +1,8 @@
+[
+    {
+        "idMateria": 1,
+        "sigla": "SIS256",
+        "nombre": "Ingeniería de Software",
+        "estudiantes": [1, 2]
+    }
+]

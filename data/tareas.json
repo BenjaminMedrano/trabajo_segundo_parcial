@@ -1,0 +1,10 @@
+[
+    {
+        "idTarea": 1,
+        "titulo": "grafica",
+        "descripcion": "realizar grafica",
+        "fechaEntrega": "2026-08-01",
+        "estado": "Pendiente",
+        "tipoArchivoPermitido": "ZIP"
+    }
+]
